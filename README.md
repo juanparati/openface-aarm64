@@ -14,7 +14,7 @@ The development of OpenFace stopped 5 years; nevertheless, it remains a valuable
 
 ## Dependencies
 
-It requies to install [docker](https://www.docker.com/products/docker-desktop/).
+It requires to install [docker](https://www.docker.com/products/docker-desktop/).
 
 
 ## Usage examples
