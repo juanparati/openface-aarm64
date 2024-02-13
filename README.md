@@ -14,7 +14,7 @@ The development of OpenFace stopped 5 years; nevertheless, it remains a valuable
 
 ## Dependencies
 
-It requires to install [docker](https://www.docker.com/products/docker-desktop/).
+It requires to install [Docker](https://www.docker.com/products/docker-desktop/).
 
 
 ## Usage examples
@@ -29,7 +29,7 @@ Process a video file
 
 
 Replace `/host/input` with the path to the local directory that contains the input files.
-Replace `/host/processed`with the path to the local directory that contains the processed files
+Replace `/host/processed` with the path to the local directory were the processed files are going to be generated.
 
 
 ## Executables included
@@ -40,7 +40,7 @@ Replace `/host/processed`with the path to the local directory that contains the 
 - FeatureExtraction
 
 
-## How were the original binaries compiled?
+## How the original binaries were compiled?
 
 See [origina/Dockerfile](origin/Dockerfile).
 
